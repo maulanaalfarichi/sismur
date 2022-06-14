@@ -1,1 +1,1 @@
-# sismur
+# sismur - sistem jadwal murajaah
